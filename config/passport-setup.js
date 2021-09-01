@@ -12,4 +12,4 @@ passport.use(
         // passport callback function
         console.log('passport callback function fired:');
         console.log(profile);
-    }))
+    })) 
